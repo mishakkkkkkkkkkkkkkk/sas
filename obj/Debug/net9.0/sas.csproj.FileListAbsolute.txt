@@ -1,0 +1,14 @@
+C:\Users\mishk\sas\obj\Debug\net9.0\sas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishk\sas\obj\Debug\net9.0\sas.AssemblyInfoInputs.cache
+C:\Users\mishk\sas\obj\Debug\net9.0\sas.AssemblyInfo.cs
+C:\Users\mishk\sas\obj\Debug\net9.0\sas.csproj.CoreCompileInputs.cache
+C:\Users\mishk\sas\bin\Debug\net9.0\sas.exe
+C:\Users\mishk\sas\bin\Debug\net9.0\sas.deps.json
+C:\Users\mishk\sas\bin\Debug\net9.0\sas.runtimeconfig.json
+C:\Users\mishk\sas\bin\Debug\net9.0\sas.dll
+C:\Users\mishk\sas\bin\Debug\net9.0\sas.pdb
+C:\Users\mishk\sas\obj\Debug\net9.0\sas.dll
+C:\Users\mishk\sas\obj\Debug\net9.0\refint\sas.dll
+C:\Users\mishk\sas\obj\Debug\net9.0\sas.pdb
+C:\Users\mishk\sas\obj\Debug\net9.0\sas.genruntimeconfig.cache
+C:\Users\mishk\sas\obj\Debug\net9.0\ref\sas.dll
